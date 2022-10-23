@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roiskhoiron
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Mobile Development
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter, Java, Kotlin & Swift Programming
 - 💞️ I’m looking to collaborate on open source project
 - 📫 Send me email here rois.khoiron@gmail.co
 
