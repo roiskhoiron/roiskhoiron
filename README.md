@@ -15,7 +15,7 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter, Java, Kotlin & Swift Programming
 - 💞️ I’m looking to collaborate on open source project
-- 📫 Send me email here rois.khoiron@gmail.co
+- 📫 Send me email here rois.khoiron@gmail.com
 
 <p > 
   Visitor count<br>
