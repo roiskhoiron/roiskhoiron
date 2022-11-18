@@ -6,12 +6,12 @@
 <details>
 <summary>📊 Github Stats</summary>
 
-![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishrawat2911&theme=vue) 
+![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roiskhoiron&theme=vue) 
 
 </details>
 <p > 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashishrawat2911/count.svg" />
+  <img src="https://profile-counter.glitch.me/roiskhoiron/count.svg" />
 </p>
 <!---
 roiskhoiron/roiskhoiron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
