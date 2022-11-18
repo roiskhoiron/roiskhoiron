@@ -1,24 +1,22 @@
-<details>
-  <summary>Some useless stat</summary>
-  
 <p align="center">
 	<a href="https://github.com/roiskhoiron/roiskhoiron">
-		<img src="https://raw.githubusercontent.com/roiskhoiron/roiskhoiron/master/YouTube _ Channel Cover.png">
+		<img src="https://raw.githubusercontent.com/roiskhoiron/roiskhoiron/main/banner.png">
 	</a>
 </p>
 
-</details>
-- 👋 Hi, I’m @roiskhoiron
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter, Java, Kotlin & Swift Programming
-- 💞️ I’m looking to collaborate on open source project
-- 📫 Send me email here rois.khoiron@gmail.co
 <details>
 <summary>📊 Github Stats</summary>
 
 ![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roiskhoiron&theme=vue) 
 
 </details>
+
+- 👋 Hi, I’m @roiskhoiron
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter, Java, Kotlin & Swift Programming
+- 💞️ I’m looking to collaborate on open source project
+- 📫 Send me email here rois.khoiron@gmail.co
+
 <p > 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/roiskhoiron/count.svg" />
