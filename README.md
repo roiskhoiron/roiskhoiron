@@ -1,3 +1,13 @@
+<details>
+  <summary>Some useless stat</summary>
+  
+<p align="center">
+	<a href="https://github.com/roiskhoiron/roiskhoiron">
+		<img src="https://raw.githubusercontent.com/roiskhoiron/roiskhoiron/master/YouTube _ Channel Cover.png">
+	</a>
+</p>
+
+</details>
 - 👋 Hi, I’m @roiskhoiron
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter, Java, Kotlin & Swift Programming
