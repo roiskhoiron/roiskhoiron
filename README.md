@@ -22,7 +22,7 @@
   <img src="https://profile-counter.glitch.me/roiskhoiron/count.svg" />
 </p>
 
-[![@roiskhoiron's Holopin board](https://holopin.me/roiskhoiron)](https://holopin.io/@roiskhoiron)
+<!-- [![@roiskhoiron's Holopin board](https://holopin.me/roiskhoiron)](https://holopin.io/@roiskhoiron) -->
 
 
 <!---
