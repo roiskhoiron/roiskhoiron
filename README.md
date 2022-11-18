@@ -7,6 +7,18 @@
 <details>
 <summary>📊 Github Stats</summary>
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=roiskhoiron&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=roiskhoiron&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=roiskhoiron&show_icons=true" />
+</picture>
+	
 ![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roiskhoiron&theme=vue) 
 
 </details>
@@ -21,6 +33,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/roiskhoiron/count.svg" />
 </p>
+
 
 <!-- [![@roiskhoiron's Holopin board](https://holopin.me/roiskhoiron)](https://holopin.io/@roiskhoiron) -->
 
